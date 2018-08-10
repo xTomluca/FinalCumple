@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1533941322 source:d:\tomaslucasuarez\final\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1533874231 d:\tomaslucasuarez\final\arraylist.h
+
+1533943600 source:d:\tomaslucasuarez\final\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Localidades.h"
+	"Pedidos.h"
+	"Controller.h"
+	"utn.h"
+
+1533939914 d:\tomaslucasuarez\final\localidades.h
+
+1533874231 d:\tomaslucasuarez\final\pedidos.h
+
+1533940937 d:\tomaslucasuarez\final\controller.h
+
+1533874231 d:\tomaslucasuarez\final\utn.h
+
+1533941694 source:d:\tomaslucasuarez\final\localidades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Localidades.h"
+	"utn.h"
+
+1533942970 source:d:\tomaslucasuarez\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"Parser.h"
+	"Localidades.h"
+	"Pedidos.h"
+	"Controller.h"
+
+1533938314 d:\tomaslucasuarez\final\parser.h
+	"ArrayList.h"
+
+1533943943 source:d:\tomaslucasuarez\final\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Pedidos.h"
+	"Controller.h"
+	"utn.h"
+
+1533941640 source:d:\tomaslucasuarez\final\pedidos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Pedidos.h"
+
+1533874231 source:d:\tomaslucasuarez\final\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
